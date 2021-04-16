@@ -8,3 +8,5 @@ will be used at the mining process.
 
 The pos-processing file which was used to calculate some metrics to evaluate
 association rules generated in some point of the mining process.
+
+Team: Gabriel Henrique, Julia Maria, Lorraine Morais e Nico Cavalcanti
